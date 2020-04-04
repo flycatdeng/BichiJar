@@ -1,0 +1,16 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.bichi.demo.android">
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+
+    <application>
+        <activity android:name=".PermissionRequestAty"
+                  android:label="@string/android_permission">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="com.bichijar.category.DEMO"/>
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>
+
