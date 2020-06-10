@@ -1,3 +1,4 @@
 <resources>
     <string name="android_permission">1.Android/1.动态权限申请</string>
+    <string name="android_canvas_base_draw">1.Android/2.Canvas/1.基础绘制</string>
 </resources>

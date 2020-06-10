@@ -11,6 +11,13 @@
                 <category android:name="com.bichijar.category.DEMO"/>
             </intent-filter>
         </activity>
+        <activity android:name=".canvas.BaseDrawAty"
+                  android:label="@string/android_canvas_base_draw">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="com.bichijar.category.DEMO"/>
+            </intent-filter>
+        </activity>
     </application>
 </manifest>
 
