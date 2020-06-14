@@ -32,6 +32,13 @@
                 <category android:name="com.bichijar.category.DEMO"/>
             </intent-filter>
         </activity>
+        <activity android:name=".canvas.CanvasTranslateAty"
+                  android:label="@string/android_canvas_canvas_translate">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="com.bichijar.category.DEMO"/>
+            </intent-filter>
+        </activity>
     </application>
 </manifest>
 
