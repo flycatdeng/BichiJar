@@ -5,4 +5,5 @@
     <string name="android_canvas_canvas_rotate">1.Android/2.Canvas/3.Canvas旋转</string>
     <string name="android_canvas_canvas_translate">1.Android/2.Canvas/4.Canvas平移</string>
     <string name="android_canvas_canvas_scale">1.Android/2.Canvas/5.Canvas缩放</string>
+    <string name="android_canvas_canvas_skew">1.Android/2.Canvas/6.Canvas错切</string>
 </resources>
