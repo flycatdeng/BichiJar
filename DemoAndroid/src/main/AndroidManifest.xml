@@ -18,6 +18,13 @@
                 <category android:name="com.bichijar.category.DEMO"/>
             </intent-filter>
         </activity>
+        <activity android:name=".canvas.DrawBitmapAty"
+                  android:label="@string/android_canvas_draw_bitmap">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="com.bichijar.category.DEMO"/>
+            </intent-filter>
+        </activity>
     </application>
 </manifest>
 
