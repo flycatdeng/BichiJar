@@ -2,6 +2,7 @@
     <string name="android_permission">1.Android/1.动态权限申请</string>
     <string name="android_canvas_base_draw">1.Android/2.Canvas/1.基础绘制</string>
     <string name="android_canvas_draw_bitmap">1.Android/2.Canvas/2.绘制Bitmap</string>
-    <string name="android_canvas_canvas_rotate">1.Android/2.Canvas/2.Canvas旋转</string>
-    <string name="android_canvas_canvas_translate">1.Android/2.Canvas/2.Canvas平移</string>
+    <string name="android_canvas_canvas_rotate">1.Android/2.Canvas/3.Canvas旋转</string>
+    <string name="android_canvas_canvas_translate">1.Android/2.Canvas/4.Canvas平移</string>
+    <string name="android_canvas_canvas_scale">1.Android/2.Canvas/5.Canvas缩放</string>
 </resources>
